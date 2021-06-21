@@ -1,6 +1,6 @@
 {
   "name": "bangkok",
-  "version": "0.0.1",
+  "version": "0.0.2-dev",
   "description": "An ES code linting tool that uses both ESLint and Prettier to check for cleanup needed (designed to work with community-maintained ESLint & Prettier plugins)",
   "license": "MIT",
   "main": "index.js",
