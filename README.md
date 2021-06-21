@@ -1,5 +1,8 @@
 # Bangkok
 
+[![LICENSE: MIT](https://img.shields.io/npm/l/bangkok?style=flat-square)](./LICENSE.md)
+[![npm: bangkok](https://img.shields.io/npm/v/bangkok?color=blue&style=flat-square)](https://www.npmjs.com/package/bangkok)
+
 An ES code linting tool that uses both ESLint and Prettier to check for cleanup
 needed, designed to work with community-maintained ESLint and Prettier plugins.
 
