@@ -1,0 +1,3 @@
+# add a custom setting
+# (using some defaults coming from prettier-plugin-x-babel-standard)
+trailingComma: 'all'
